@@ -1,0 +1,89 @@
+.expenses-table-container {
+  padding: 4px;
+  background: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 30px auto;
+  max-width: 800px;
+  margin-left: 700px;
+}
+
+.expenses-table-container h3 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+  font-size: x-large;
+}
+
+.expenses-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.expenses-table th,
+.expenses-table td {
+  padding: 10px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  color: black;
+  border-left: 1px solid #dddd;
+}
+
+.expenses-table th {
+  background-color: #f4f4f4;
+  color: #333;
+  border-left: 1px solid #dddd;
+  border-top: 1px solid #dddd;
+}
+
+.expenses-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin-right: 5px;
+}
+
+.edit-button {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.edit-button:hover {
+  background-color: #2980b9;
+}
+
+.delete-button {
+  background-color: #e74c3c;
+  color: #fff;
+}
+
+.delete-button:hover {
+  background-color: #c0392b;
+}
+
+.loading {
+  text-align: center;
+  color: #666;
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+.cartutton {
+  color: red;
+  background-color: green;
+}
+
+.Actions{
+  margin-left: 200px;
+  position: relative;
+
+}

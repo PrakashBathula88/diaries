@@ -1,0 +1,50 @@
+.profile-container p {
+  /* margin-left: 380px;  */
+  margin-top: 50px;
+  text-transform: uppercase;
+  border-bottom: 2px solid;
+  justify-content: end;
+  display: flex;
+}
+.contact_details {
+  margin-left: 43%;
+  margin-top: 90px;
+}
+.icon_cancel {
+  display: flex;
+  justify-content: center;
+  margin: 60px;
+  margin-left: 700px;
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+  cursor: pointer;
+}
+.All-input-fields {
+  margin-left: 25%;
+  margin-right: 380px;
+  display: flex;
+  justify-content: space-between;
+}
+.input_fields {
+  width: 180px;
+  height: 40px;
+  border-radius: 10px;
+}
+.All-input-fields label {
+  margin-top: 10px;
+  color:green;
+}
+.icons_cojt {
+  margin-top: -10px;
+  font-size: 60px;
+  color: blue;
+}
+.All-input-fields button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: blue;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}

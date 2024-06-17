@@ -1,0 +1,424 @@
+.All-background-items {
+  color: black;
+  height: 92.6vh;
+}
+
+.All-amount-box {
+  position: fixed;
+  width: 400px;
+  height: 150px;
+  padding: 120px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  border-radius: 26px;
+  background: linear-gradient(390deg, #f0f0f0);
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+.All-amount-box:hover {
+  box-shadow: rgba(7, 134, 148, 0.838) 0px 22px 70px 4px;
+}
+.All-amount-box h3 {
+  position: relative;
+  bottom: 100px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.Enter-amount {
+  position: relative;
+  bottom: 70px;
+  display: flex;
+  margin-left: 37px;
+}
+.Enter-amount input {
+  height: 40px;
+  width: 300px;
+  max-width: 500px;
+  border-radius: 10px;
+  background: none;
+  margin-right: 20px;
+}
+.Enter-amount ::placeholder {
+  text-align: center;
+  font-size: 20px;
+  color: black;
+  font-style: italic;
+}
+.rupee {
+  margin-top: 10px;
+  color: brown;
+  margin-right: 1px;
+  font-size: 30px;
+}
+.bracket {
+  margin-top: 10px;
+  color: aqua;
+  margin-left: 10px;
+  font-size: 30px;
+}
+.All-date-items {
+  display: grid;
+  border: 2px solid black;
+  padding: 25px;
+  flex-wrap: nowrap;
+  width: 380px;
+  max-width: 380px;
+  border-radius: 10px;
+}
+.All-date_timings {
+  border-bottom: 1px solid black;
+  width: 360px;
+  height: 40px;
+}
+.All-date_timings input {
+  margin-left: 150px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 7px;
+  background-color: rgb(170, 17, 73);
+}
+
+.All-date_paid {
+  margin-top: 18px;
+}
+.All-date_paid input {
+  margin-left: 150px;
+  height: 30px;
+  background-color: rgba(210, 105, 30, 0.6);
+  border-radius: 10px;
+  font-style: italic;
+}
+
+.aLL-icons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 500px;
+  max-width: 500px;
+  margin-top: 380px;
+  margin-left: 100px;
+  position: fixed;
+}
+.aLL-icons p {
+  display: grid;
+}
+.All-iconic-stars {
+  font-size: 40px;
+  position: fixed;
+  color: green;
+  border-radius: 50%;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-stars:hover {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.137);
+}
+.All-iconic-sharp {
+  font-size: 40px;
+  position: fixed;
+  color: purple;
+  border-radius: 50%;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-sharp:hover {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-enter {
+  font-size: 40px;
+  position: fixed;
+  color: blue;
+  border-radius: 50%;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-enter:hover {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-sood {
+  font-size: 40px;
+  position: fixed;
+  color: red;
+  border-radius: 50%;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-sood:hover {
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-fuels {
+  font-size: 40px;
+  position: fixed;
+  color: blueviolet;
+  border-radius: 50%;
+  margin-top: 40px;
+  border: 2px solid blueviolet;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-fuels:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-groceries {
+  font-size: 40px;
+  position: fixed;
+  color: black;
+  border-radius: 50%;
+  margin-top: 40px;
+  border: 2px solid white;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-groceries:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-health {
+  font-size: 40px;
+  position: fixed;
+  color: green;
+  border-radius: 50%;
+  margin-top: 40px;
+  border: 2px solid pink;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-health:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-inves {
+  font-size: 40px;
+  position: fixed;
+  color: chocolate;
+  border-radius: 50%;
+  margin-top: 40px;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-inves:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-other {
+  font-size: 40px;
+  position: fixed;
+  color: fuchsia;
+  border-radius: 50%;
+  margin-top: 80px;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-other:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+
+.All-iconic-shopp {
+  font-size: 40px;
+  position: fixed;
+  color: cornflowerblue;
+  border-radius: 50%;
+  margin-top: 80px;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-shopp:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-trans {
+  font-size: 40px;
+  position: fixed;
+  color: deeppink;
+  border-radius: 50%;
+  margin-top: 80px;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-trans:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+.All-iconic-travel {
+  font-size: 40px;
+  position: fixed;
+  color: darkmagenta;
+  border-radius: 50%;
+  margin-top: 80px;
+  border: 2px solid green;
+  padding: 4px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.758);
+}
+.All-iconic-travel:hover {
+  border: 2px solid green;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: rgba(0, 128, 0, 0.177);
+}
+
+.save-button {
+  background: transparent;
+  color: red;
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 600;
+  border: none;
+  padding: 20px 30px;
+  perspective: 30rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.308);
+  margin-top: 34%;
+  margin-left: 550px;
+  cursor: pointer;
+  position: fixed;
+}
+.save-button::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background: linear-gradient(
+    320deg,
+    rgba(0, 140, 255, 0.678),
+    rgba(128, 0, 128, 0.308)
+  );
+  z-index: 1;
+  transition: background 33s;
+}
+
+.save-button:hover::before {
+  animation: rotate 1s;
+  transition: all 0.5s;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotateY(180deg);
+  }
+
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+.light {
+  background-color: white;
+  color: black;
+  position: relative;
+}
+
+.dark {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.All-background-items {
+  padding: 20px;
+  position: fixed;
+  width: 100vw;
+  height: 100vw;
+}
+.All-button {
+  margin-left: 89%;
+  margin-top: 30px;
+  font-size: 49px;
+  height: 60px;
+  width: 100px;
+  position: absolute;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background: linear-gradient(
+    320deg,
+    rgba(0, 140, 255, 0.678),
+    rgba(128, 0, 128, 0.308)
+  );
+  cursor: pointer;
+}
+
+.cloudy {
+  color: white;
+}
+
+.rainy {
+  color: black;
+}
+
+button.Premium {
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 300px;
+}
+
+.premiuum {
+  max-width: 100px;
+  left: 570px;
+  position:fixed;
+  z-index: 88;
+  padding: 24px;
+  border-radius: 10px;
+  background: linear-gradient(
+    320deg,
+    rgba(0, 140, 255, 0.678),
+    rgba(128, 0, 128, 0.308)
+  );
+  text-transform: uppercase;
+  color: brown;
+}

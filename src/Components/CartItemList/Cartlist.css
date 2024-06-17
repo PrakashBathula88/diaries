@@ -1,0 +1,48 @@
+.cart-table-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0);
+  /* margin: 20px; */
+}
+
+.cart-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cart-table th,
+.cart-table td {
+  padding: 2px 1px;
+  border: 1px solid #ddd;
+  font-style: italic;
+  text-transform: uppercase;
+  align-items: center;
+}
+
+.cart-table th {
+  background-color: #f4f4f4;
+  text-align: left;
+}
+
+.cart-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.cart-table tr:hover {
+  background-color: #f1f1f100;
+}
+
+.delete-button {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.delete-button:hover {
+  background-color: #ff1a1a;
+}
