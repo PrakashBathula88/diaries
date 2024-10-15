@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<div style="background-color: lightgreen; padding: 20px;">
+  <h1>E-Commerce Website</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h2>Tech Stack</h2>
 
-## Available Scripts
+  <div>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="35" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" alt="React"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" alt="Redux"/>
+  </div>
 
-In the project directory, you can run:
+  <h2>Table of Contents</h2>
+  <ol>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#demo">Demo</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#contributors">Contributors</a></li>
+  </ol>
 
-### `npm start`
+  <h2 id="description">Description</h2>
+  <p>
+    An e-commerce website platform for online shopping, offering a wide range of products from various categories with secure payment options and user-friendly interfaces.
+  </p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <h2 id="demo">Demo</h2>
+  <p>
+    - <a href="https://6693a7754b9eb42c34f31ba3--regal-meerkat-eac88a.netlify.app/" target="_blank">Live Demo</a>
+  </p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <h2 id="screenshots">Screenshots</h2>
+  <p>
+    Screenshots of the Home page on different devices are given below:
+  </p>
+  <ul>
+    <li><a href="./Images/Home-Page_Desktop.png">Desktop</a></li>
+    <li><a href="./Images/Home-Page_Laptop.png">Laptop</a></li>
+    <li><a href="./Images/Home-Page_Tablet.png">Tablet</a></li>
+    <li><a href="./Images/Home-Page_Mobile.png">Mobile</a></li>
+  </ul>
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <h2 id="contributors">Contributors</h2>
+  <p>
+    - Bathula Prakash: <a href="https://www.linkedin.com/in/bathulaprakash/">LinkedIn</a> | <a href="https://github.com/PrakashBathula88">GitHub</a>
+  </p>
+</div>
