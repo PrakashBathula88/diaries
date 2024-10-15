@@ -1,5 +1,5 @@
-<div style="background-color: lightgreen; padding: 20px;">
-  <h1>E-Commerce Website</h1>
+<div style="background-color: lightblue; padding: 20px;">
+  <h1>Expense Tracker</h1>
 
   <h2>Tech Stack</h2>
 
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35" alt="CSS"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="35" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" alt="React"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" alt="Redux"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="100" height="35" alt="Firebase"/>
   </div>
 
   <h2>Table of Contents</h2>
@@ -21,23 +21,31 @@
 
   <h2 id="description">Description</h2>
   <p>
-    An e-commerce website platform for online shopping, offering a wide range of products from various categories with secure payment options and user-friendly interfaces.
+    A simple and user-friendly expense tracker application to manage your daily, weekly, and monthly expenses with options to add, edit, delete, and download expenses.
   </p>
 
   <h2 id="demo">Demo</h2>
   <p>
-    - <a href="https://6693a7754b9eb42c34f31ba3--regal-meerkat-eac88a.netlify.app/" target="_blank">Live Demo</a>
+    - <a href="https://your-expense-tracker-demo-link.com" target="_blank">Live Demo</a>
   </p>
+
+  <h2 id="features">Features</h2>
+  <ul>
+    <li>Add and delete expenses</li>
+    <li>Edit existing expenses</li>
+    <li>Download expense reports</li>
+    <li>Firebase authentication and data storage</li>
+  </ul>
 
   <h2 id="screenshots">Screenshots</h2>
   <p>
-    Screenshots of the Home page on different devices are given below:
+    Screenshots of the Expense Tracker on different devices are given below:
   </p>
   <ul>
-    <li><a href="./Images/Home-Page_Desktop.png">Desktop</a></li>
-    <li><a href="./Images/Home-Page_Laptop.png">Laptop</a></li>
-    <li><a href="./Images/Home-Page_Tablet.png">Tablet</a></li>
-    <li><a href="./Images/Home-Page_Mobile.png">Mobile</a></li>
+    <li><a href="./Images/Expense-Tracker_Desktop.png">Desktop</a></li>
+    <li><a href="./Images/Expense-Tracker_Laptop.png">Laptop</a></li>
+    <li><a href="./Images/Expense-Tracker_Tablet.png">Tablet</a></li>
+    <li><a href="./Images/Expense-Tracker_Mobile.png">Mobile</a></li>
   </ul>
 
   <h2 id="contributors">Contributors</h2>
